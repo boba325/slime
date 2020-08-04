@@ -5,6 +5,7 @@ import signal
 import sys
 
 def quit():
+	print("Bye...")
     sys.exit(0)
 
 def run():
